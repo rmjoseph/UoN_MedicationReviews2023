@@ -1,0 +1,70 @@
+role,description,category
+20,Practice Manager,admin
+21,Fund Manager,admin
+22,Business Manager,admin
+23,Administrator,admin
+24,Secretary,admin
+25,Receptionist,admin
+59,Other Admin & Clerical,admin
+1,Senior Partner,GP
+2,Partner,GP
+3,Assistant,GP
+4,Associate,GP
+5,Non-commercial local rota of less than 10 GPs,GP
+6,Commercial Deputising service,GP
+7,Locum,GP
+8,GP Registrar,GP
+9,Consultant,GP
+10,Sole Practitioner,GP
+47,Salaried Partner,GP
+50,GP Retainer,GP
+60,Clinical Practitioner Access Role,GP
+11,Practice Nurse,nurse
+13,Community Nurse,nurse
+15,Community Psychiatric Nurse,nurse
+34,Hospital Nurse,nurse
+36,School Nurse,nurse
+38,Contact Tracing Nurse,nurse
+45,Mental Handicap Nurse,nurse
+54,Other Nursing & Midwifery,nurse
+12,Health Visitor,nurse
+14,Midwife,nurse
+61,Nurse Access Role,nurse
+62,Nurse Manager Access Role,nurse
+32,Maintenance staff,other
+40,Computer Manager,other
+41,Interpreter/Link Worker,other
+26,Physiotherapist,otherpatcare
+27,Chiropodist,otherpatcare
+28,Dentist,otherpatcare
+29,Dietician,otherpatcare
+30,Counsellor,otherpatcare
+31,Osteopath,otherpatcare
+33,Other Health Care Professional,otherpatcare
+39,Stomatherapist,otherpatcare
+42,Chiropractor,otherpatcare
+48,Occupational Therapist,otherpatcare
+49,Speech Therapist,otherpatcare
+51,Phlebotomist,otherpatcare
+52,Other Medical & Dental,otherpatcare
+55,Other Allied Health Professionals,otherpatcare
+67,Optometrist,otherpatcare
+68,Radiographer,otherpatcare
+16,Social Worker,otherpatcare
+18,Dispenser,otherpatcare
+19,Non-qualified Dispenser,otherpatcare
+35,Community Medical Officer,otherpatcare
+37,Health Education Officer,otherpatcare
+53,Other Students,otherpatcare
+63,Health Professional Access Role,otherpatcare
+64,Healthcare Student Access Role,otherpatcare
+65,Biomedical Scientist Access Role,otherpatcare
+66,Clinical Coder Access Role,otherpatcare
+43,Acupuncturist,otherpatcare
+44,Homeopath,otherpatcare
+46,Carer,otherpatcare
+56,Other Professional Scientific & Technical,otherpatcare
+57,Other Healthcare Scientists,otherpatcare
+58,Other Additional Clinical Services,otherpatcare
+17,Pharmacist,pharmacist
+0,Data Not Entered,unknown
