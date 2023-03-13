@@ -18,6 +18,7 @@
 * 20230130	scripts_masterfile	Update versions for analysis Q2 and Q3
 * 20230131	scripts_masterfile	Update versions for analysis Q1
 * 20230302	scripts_masterfile	Tidy script
+* 20230313	scripts_masterfile	Add additional analysis files
 *************************************
 
 ** log
@@ -205,6 +206,10 @@ do scripts/stata/analysis_Q3_v2.do over65s
 do scripts/stata/analysis_extra_drugexposurechart.do
 do scripts/stata/analysis_extra_BJGP2023abs.do
 
+do scripts/stata/analysis_Q1_additional.do ad
+do scripts/stata/analysis_Q1_additional.do over65s
+do scripts/stata/analysis_Q2_additional.do ad
+do scripts/stata/analysis_Q2_additional.do over65s
 
 
 *************************************
