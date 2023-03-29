@@ -8,7 +8,7 @@ The work includes analyses from two separate CPRD projects, the first investigat
 
 The projects, including the protocols and the Stata code in this repository, were designed and written by researchers at the University of Nottingham. The projects were funded by the National Institute for Health and Care Research (NIHR) School for Primary Care Research (project reference 587) and the NIHR Nottingham Biomedical Reserch Centre. Any views expressed are those of the author(s) and not necessarily those of the NIHR or the Department of Health and Social Care. This code underpins all of the results of this study, including those presented in published works, and has been shared for purposes of transparency and reproducibility.
 
-We request that any use of or reference to the Stata code within this repository is cited appropriately using the information provided on its Zenodo entry (link to be added).
+We request that any use of or reference to the Stata code within this repository is cited appropriately using the information provided on its Zenodo entry (https://doi.org/10.5281/zenodo.7738103).
 
 ## Using the files
 ### Data
